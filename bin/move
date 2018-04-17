@@ -12,7 +12,7 @@ userInput = gets.strip
 
 index = input_to_index (userInput)
 
-move (board, index, "X")
+#move (board, index, "X")
 
 display_board(board)
 # Code your CLI Here
