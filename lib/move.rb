@@ -13,5 +13,5 @@ end
 def move (board, userInput, symbol)
   board[userInput.to_i] = symbol
 end
-  
+
 # code your input_to_index and move method here!
